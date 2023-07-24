@@ -1,0 +1,7 @@
+{
+  "name": "gmbetik",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
